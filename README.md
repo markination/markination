@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📣 I’m currently working on Shello.<br>🌱 I’m learning Python, Javascript and PHP.<br>💬 Chat to me about discord, python or API's!<br>🥳 Fun fact: I've been learning Python for 2 years.
+📣 I’m currently working on Shello.<br>🌱 I’m learning Python, Ruby and PHP.<br>💬 Chat to me about discord, python or API's!<br>🥳 Fun fact: I've been learning Python for 2 years.
 
 
 
@@ -28,6 +28,10 @@
 ### Languages and tools I work with
 <div>
 <img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
+<img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+
+  
 
 
 ## 📈 Profile Stats
