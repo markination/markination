@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📣 I’m currently working on Shello.<br>🌱 I’m learning Python, Ruby and PHP.<br>💬 Chat to me about discord, python or API's!<br>🥳 Fun fact: I've been learning Python for 2 years.
+📣 I’m currently working on Mkdev.<br>🌱 I’m learning Python, Ruby and PHP.<br>💬 Chat to me about discord, python or API's!<br>🥳 Fun fact: I've been learning Python for 2 years.
 
 
 
@@ -20,9 +20,6 @@
 </div>
 
 <br>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/erm) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MikeyRLSwitch) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14820205) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mikeyusersrec) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_iMikey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCj8LeM_gSoUU_V89cS992Lg) 
 
 ## 👩‍💻 Tech Stack
 ### Languages and tools I work with
