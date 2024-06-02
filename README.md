@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📣 I’m currently working on Mkdev.<br>🌱 I’m learning Python, Ruby and PHP.<br>💬 Chat to me about discord, python or API's!<br>🥳 Fun fact: I've been learning Python for 2 years.
+📣 I’m currently working on Mkdev.<br>🌱 I’m learning Python and ruby.<br>💬 Chat to me about discord, python or API's!<br>🥳 Fun fact: I've been learning Python for 2 years.
 
 
 
