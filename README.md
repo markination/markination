@@ -1,1 +1,1 @@
-I like python
+coding is mediocre, would rather be flying tbh
